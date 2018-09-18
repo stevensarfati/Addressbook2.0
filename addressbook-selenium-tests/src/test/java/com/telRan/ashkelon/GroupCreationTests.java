@@ -1,13 +1,6 @@
 package com.telRan.ashkelon;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-
-import java.util.concurrent.TimeUnit;
 
 public class GroupCreationTests extends TestBase{
 
@@ -15,7 +8,7 @@ public class GroupCreationTests extends TestBase{
     public void testGroupCreation(){
         openGroupsPage();
         initNewGroupCreation();
-        fillGroupForm("name", "header", "footer");
+        fillGroupForm(new GroupData("name", "header", "footer"));
         confirmNewGroupCreation();
         returnToGroupsPage();
     }
@@ -24,7 +17,7 @@ public class GroupCreationTests extends TestBase{
     public void testGroupCreationlongName(){
         openGroupsPage();
         initNewGroupCreation();
-        fillGroupForm("nameeeeeeeeeeeeeeee", "headereeeeeeeeeeeee", "footereeeeeeeeeeeeeeeee");
+        fillGroupForm(new GroupData("nameeeeeeeeeeeeeeee", "headereeeeeeeeeeeee", "footereeeeeeeeeeeeeeeee"));
         confirmNewGroupCreation();
         returnToGroupsPage();
     }
@@ -33,7 +26,7 @@ public class GroupCreationTests extends TestBase{
     public void testGroupCreationEmpty(){
         openGroupsPage();
         initNewGroupCreation();
-        fillGroupForm("", "", "");
+        fillGroupForm(new GroupData("", "", ""));
         confirmNewGroupCreation();
         returnToGroupsPage();
     }

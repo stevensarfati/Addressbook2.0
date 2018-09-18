@@ -1,6 +1,7 @@
 package com.telRan.ashkelon;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -27,10 +28,10 @@ public class TestBase {
         click(By.name("submit"));
     }
 
-    public void fillGroupForm(String groupName, String groupHeader, String groupFooter) {
-        type(By.name("group_name"), groupName);
-        type(By.name("group_header"), groupHeader);
-        type(By.name("group_footer"), groupFooter);
+    public void fillGroupForm(GroupData group) {
+        type(By.name("group_name"), group.getGroupName());
+        type(By.name("group_header"), group.getGroupHeader());
+        type(By.name("group_footer"), group.getGroupFooter());
     }
 
     public void initNewGroupCreation() {
@@ -79,4 +80,31 @@ public class TestBase {
         click(By.name("delete"));
     }
 
+    public void createGroup() {
+        initNewGroupCreation();
+        fillGroupForm(new GroupData("name", "header", "footer"));
+        confirmNewGroupCreation();
+        returnToGroupsPage();
+    }
+
+    public boolean isGroupPresent() {
+        return isElementPresent(By.name("selected[]"));
+    }
+
+    public boolean isElementPresent(By locator) {
+        try {
+            wd.findElement(locator);
+            return true;
+        } catch (NoSuchElementException e) {
+            return false;
+        }
+    }
+
+    public void selectGroupByIndex(int index) {
+      wd.findElements(By.name("selected[]")).get(index).click();
+    }
+
+    public int getGroupsCount() {
+        return wd.findElements(By.name("selected[]")).size();
+    }
 }
