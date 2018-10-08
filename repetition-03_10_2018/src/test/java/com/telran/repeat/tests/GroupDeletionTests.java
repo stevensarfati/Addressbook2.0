@@ -1,17 +1,21 @@
 package com.telran.repeat.tests;
 
 import org.testng.Assert;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class GroupDeletionTests extends  TestBase {
-  @Test
-  public  void testGroupDeletion(){
+  @BeforeMethod
+  public void ensurePreconditions(){
     app.getNavigationHelper().openGroupsPage();
+
     if(!app.getGroupHelper().isGroupPresent()){
       app.getGroupHelper().createGroup();
     }
+  }
 
-
+  @Test
+  public  void testGroupDeletion(){
     int before = app.getGroupHelper().getGroupsCount();
 
     app.getGroupHelper().selectGroup();

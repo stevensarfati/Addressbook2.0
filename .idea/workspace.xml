@@ -2,30 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46673f35-060f-4deb-a016-f5c4b145a351" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/repetition-03_10_2018.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/repetition-03_10_2018_main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/repetition-03_10_2018_test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ApplicationManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/NavigationHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/SessionHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Contact.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/model/Group.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactDeletionTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactModificationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupModificationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/TestBase.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java" afterPath="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telRan/ashkelon/ContactCreationTests.java" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/GroupHelper.class" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/GroupHelper.class" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/HelperBase.class" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/manager/HelperBase.class" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/ContactCreationTests.class" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/ContactCreationTests.class" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/GroupDeletionTests.class" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/GroupDeletionTests.class" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/GroupModificationTests.class" afterPath="$PROJECT_DIR$/repetition-03_10_2018/out/test/classes/com/telran/repeat/tests/GroupModificationTests.class" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java" />
+      <change beforePath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java" afterPath="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java" />
     </list>
     <ignored path="$PROJECT_DIR$/addressbook-selenium-tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/addressbook-selenium-tests/build/" />
@@ -60,8 +46,20 @@
       <file leaf-file-name="ContactCreationTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="322">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,24 +68,8 @@
       <file leaf-file-name="HelperBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="333">
+              <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,8 +78,8 @@
       <file leaf-file-name="GroupHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="65" column="27" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+            <state relative-caret-position="346">
+              <caret line="67" column="3" lean-forward="true" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#226#227#0" expanded="true" />
@@ -119,11 +101,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="GroupModificationTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupModificationTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+              <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -133,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactDeletionTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -142,21 +134,11 @@
       <file leaf-file-name="GroupCreationTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="281">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -165,7 +147,7 @@
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactModificationTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -173,11 +155,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroupDeletionTests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GroupDeletionTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="485">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -774,11 +756,12 @@
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactModificationTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/NavigationHelper.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupModificationTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java" />
-        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java" />
         <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java" />
+        <option value="$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java" />
       </list>
     </option>
   </component>
@@ -806,6 +789,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -865,10 +851,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -877,7 +860,7 @@
     <property name="project.structure.proportion" value="0.09930486" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AddressBook2.0-1" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
   </component>
   <component name="RecentsManager">
@@ -899,7 +882,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GroupCreationTests.testGroupCreation">
+  <component name="RunManager" selected="TestNG.ContactCreationTests.createContactTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -980,6 +963,38 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="ContactCreationTests.createContactTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.telran.repeat.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="repetition-03_10_2018_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.telran.repeat.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.repeat.tests.ContactCreationTests" />
+      <option name="METHOD_NAME" value="createContactTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="ContactModificationTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1028,38 +1043,6 @@
       <option name="METHOD_NAME" value="testGroupCreation" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="GroupDeletionTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.telRan.ashkelon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="addressbook-selenium-tests_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.telRan.ashkelon" />
-      <option name="MAIN_CLASS_NAME" value="com.telRan.ashkelon.GroupDeletionTests" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -1142,19 +1125,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.GroupDeletionTests" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.ContactModificationTests" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.GroupModificationTests" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.ContactCreationTests" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.ContactModificationTests" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.GroupModificationTests" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.ContactCreationTests" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.ContactCreationTests.createContactTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.ContactCreationTests" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.GroupModificationTests" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.ContactModificationTests" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.GroupDeletionTests" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.ContactCreationTests.createContactTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.ContactCreationTests" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.GroupModificationTests" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.ContactModificationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -1181,11 +1164,11 @@
     <history-entry file="ContactCreationTests - 2018.10.07 at 12h 28m 59s.xml">
       <configuration name="ContactCreationTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ContactModificationTests - 2018.10.03 at 14h 58m 49s.xml">
-      <configuration name="ContactModificationTests" configurationId="TestNG" />
+    <history-entry file="ContactCreationTests_createContactTest - 2018.10.07 at 18h 01m 33s.xml">
+      <configuration name="ContactCreationTests.createContactTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupCreationTests_testGroupCreation - 2018.09.17 at 11h 06m 23s.xml">
-      <configuration name="GroupCreationTests.testGroupCreation" configurationId="TestNG" />
+    <history-entry file="ContactCreationTests_createContactTest - 2018.10.07 at 18h 02m 50s.xml">
+      <configuration name="ContactCreationTests.createContactTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="GroupCreationTests_testGroupCreation - 2018.10.07 at 14h 56m 29s.xml">
       <configuration name="GroupCreationTests.testGroupCreation" configurationId="TestNG" />
@@ -1208,21 +1191,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1036" height="733" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.108153075" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23627287" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19467214" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.108606555" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1235,6 +1218,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1256,11 +1240,107 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupModificationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactModificationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1268,13 +1348,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1216">
           <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#298#299#0" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
-            <element signature="e#360#361#0" expanded="false" />
-            <element signature="e#380#381#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1282,7 +1356,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1290,7 +1366,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1298,9 +1376,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1318,7 +1394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1342,7 +1417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1350,7 +1424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2774">
           <caret line="102" column="45" lean-forward="false" selection-start-line="102" selection-start-column="45" selection-end-line="102" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1358,7 +1431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1366,7 +1438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1374,7 +1445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1382,7 +1452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1390,7 +1459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1102">
           <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1398,7 +1466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1414,7 +1481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1422,15 +1488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1439,9 +1496,9 @@
         <state relative-caret-position="158">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1451,15 +1508,15 @@
         <state relative-caret-position="399">
           <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#197#198#0" expanded="false" />
+            <element signature="e#216#217#0" expanded="false" />
+            <element signature="e#254#255#0" expanded="false" />
+            <element signature="e#285#286#0" expanded="false" />
+            <element signature="e#317#318#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#448#449#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1469,17 +1526,17 @@
         <state relative-caret-position="1596">
           <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1080#1081#0" expanded="true" />
-            <element signature="e#1125#1126#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
-            <element signature="e#1200#1201#0" expanded="true" />
-            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#835#836#0" expanded="false" />
+            <element signature="e#854#855#0" expanded="false" />
+            <element signature="e#978#979#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1052#1053#0" expanded="false" />
+            <element signature="e#1080#1081#0" expanded="false" />
+            <element signature="e#1125#1126#0" expanded="false" />
+            <element signature="e#1155#1156#0" expanded="false" />
+            <element signature="e#1200#1201#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1488,7 +1545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1496,7 +1552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1504,7 +1559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1512,7 +1566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
           <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1520,7 +1573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1528,7 +1580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1536,7 +1587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1544,28 +1594,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="333">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/GroupHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="65" column="27" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+        <state relative-caret-position="346">
+          <caret line="67" column="3" lean-forward="true" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#226#227#0" expanded="true" />
@@ -1586,73 +1645,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/manager/ContactHelper.java">
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupModificationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="432">
+          <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java">
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactDeletionTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="281">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactModificationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupCreationTests.java">
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactDeletionTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupModificationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        <state relative-caret-position="228">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/ContactCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="342">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repetition-03_10_2018/src/test/java/com/telran/repeat/tests/GroupDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
