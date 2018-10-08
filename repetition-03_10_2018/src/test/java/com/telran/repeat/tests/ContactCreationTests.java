@@ -3,11 +3,17 @@ package com.telran.repeat.tests;
 import com.telran.repeat.model.Contact;
 import org.testng.annotations.Test;
 
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+
 public class ContactCreationTests extends TestBase {
   @Test
-  public void createContactTest() {
+  public void createContactTest() throws IOException {
     app.getContactHelper().initContactCreation();
     app.getContactHelper().fillContactForm(new Contact("Moshe", "Coen", "Tel-Aviv", "gg@hh.com", "134455566"));
     app.getContactHelper().confirmContactCreation();
+
   }
 }

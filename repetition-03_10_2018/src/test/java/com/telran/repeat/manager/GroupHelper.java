@@ -66,4 +66,11 @@ public class GroupHelper extends HelperBase {
     confirmGroupCreation();
     returnToGroupsPage();
   }
+
+//  public void createGroup() {
+//    initGroupCreation();
+//    fillGroupForm(new Group("new", "new 1", "new"));
+//    confirmGroupCreation();
+//    returnToGroupsPage();
+//  }
 }
