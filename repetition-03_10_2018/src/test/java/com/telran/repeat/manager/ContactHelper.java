@@ -44,4 +44,26 @@ public class ContactHelper extends HelperBase{
 
   public void confirmContactModification() {
     click(By.name("update"));  }
+
+    public boolean isContactPresent() {
+    return isElementPresent(By.name("selected[]"));
+    }
+
+  public void createContact() {
+    initContactCreation();
+    fillContactForm(new Contact());
+    confirmContactCreation();
+  }
+
+  public void selectContactByIndex(int i) {
+    wd.findElements(By.name("selected[]")).get(i).click();
+  }
+
+  public int getContactCount() {
+    return wd.findElements(By.name("selected[]")).size();
+  }
+
+  public boolean isOnTheHomePage() {
+    return isElementPresent(By.id("maintable"));
+  }
 }

@@ -1,19 +1,39 @@
 package com.telran.repeat.model;
 
 public class Contact {
-  private final String fName;
-  private final String lName;
-  private final String address;
-  private final String email;
-  private final String phoneHome;
+  private String fName;
+  private String lName;
+  private String address;
+  private String email;
+  private String phoneHome;
 
-  public Contact(String fName, String lName, String address, String email, String phoneHome) {
+
+  public Contact setfName(String fName) {
     this.fName = fName;
-    this.lName = lName;
-    this.address = address;
-    this.email = email;
-    this.phoneHome = phoneHome;
+    return this;
   }
+
+  public Contact setlName(String lName) {
+    this.lName = lName;
+    return this;
+  }
+
+  public Contact setAddress(String address) {
+    this.address = address;
+    return this;
+  }
+
+  public Contact setEmail(String email) {
+    this.email = email;
+    return this;
+  }
+
+  public Contact setPhoneHome(String phoneHome) {
+    this.phoneHome = phoneHome;
+    return this;
+  }
+
+
 
   public String getfName() {
     return fName;

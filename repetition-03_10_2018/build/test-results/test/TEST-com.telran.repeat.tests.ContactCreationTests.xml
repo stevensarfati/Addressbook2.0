@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.repeat.tests.ContactCreationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-10T07:21:13" hostname="MacBook-Air-de-Steven.local" time="1.988">
+  <properties/>
+  <testcase name="createContactTest" classname="com.telran.repeat.tests.ContactCreationTests" time="1.988"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1539156073109	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://localhost/addressbook/index.php
+1539156073415	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://localhost/addressbook/index.php
+1539156073416	Marionette	DEBUG	[4294967297] Received DOM event unload for http://localhost/addressbook/index.php
+1539156073431	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://localhost/addressbook/edit.php
+1539156073484	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://localhost/addressbook/edit.php
+1539156073733	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156074006	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156074301	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156074568	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156074852	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156074917	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://localhost/addressbook/edit.php
+1539156075033	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://localhost/addressbook/edit.php
+1539156075034	Marionette	DEBUG	[4294967297] Received DOM event unload for http://localhost/addressbook/edit.php
+1539156075043	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://localhost/addressbook/edit.php
+1539156075059	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://localhost/addressbook/edit.php
+]]></system-err>
+</testsuite>

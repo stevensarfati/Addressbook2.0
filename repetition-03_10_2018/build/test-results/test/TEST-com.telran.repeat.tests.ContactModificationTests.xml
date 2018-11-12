@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.repeat.tests.ContactModificationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-10T07:21:16" hostname="MacBook-Air-de-Steven.local" time="2.542">
+  <properties/>
+  <testcase name="testsContactModification" classname="com.telran.repeat.tests.ContactModificationTests" time="2.542"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1539156075775	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://localhost/addressbook/index.php
+1539156075789	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://localhost/addressbook/index.php
+1539156075790	Marionette	DEBUG	[4294967297] Received DOM event unload for http://localhost/addressbook/index.php
+1539156075801	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://localhost/addressbook/
+1539156075818	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://localhost/addressbook/
+1539156076136	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://localhost/addressbook/index.php
+1539156076144	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://localhost/addressbook/index.php
+1539156076145	Marionette	DEBUG	[4294967297] Received DOM event unload for http://localhost/addressbook/index.php
+1539156076154	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://localhost/addressbook/
+1539156076173	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://localhost/addressbook/
+1539156076448	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://localhost/addressbook/index.php
+1539156076782	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://localhost/addressbook/index.php
+1539156076782	Marionette	DEBUG	[4294967297] Received DOM event unload for http://localhost/addressbook/index.php
+1539156076800	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://localhost/addressbook/edit.php?id=12
+1539156076843	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://localhost/addressbook/edit.php?id=12
+1539156077102	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156077456	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156077747	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156078037	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156078344	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539156078420	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://localhost/addressbook/edit.php?id=12
+1539156078586	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://localhost/addressbook/edit.php?id=12
+1539156078586	Marionette	DEBUG	[4294967297] Received DOM event unload for http://localhost/addressbook/edit.php?id=12
+1539156078599	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://localhost/addressbook/edit.php
+1539156078623	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://localhost/addressbook/edit.php
+]]></system-err>
+</testsuite>

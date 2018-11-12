@@ -14,11 +14,28 @@ public class GroupDeletionTests extends  TestBase {
     }
   }
 
+
+
   @Test
-  public  void testGroupDeletion(){
+  public  void testFirstGroupDeletion(){
     int before = app.getGroupHelper().getGroupsCount();
 
-    app.getGroupHelper().selectGroup();
+    app.getGroupHelper().selectGroupByIndex(0);
+    app.getGroupHelper().deleteGroup();
+    app.getGroupHelper().returnToGroupsPage();
+
+    int after = app.getGroupHelper().getGroupsCount();
+
+    Assert.assertEquals(after, before-1);
+
+  }
+
+
+  @Test
+  public  void testLastGroupDeletion(){
+    int before = app.getGroupHelper().getGroupsCount();
+
+    app.getGroupHelper().selectGroupByIndex(before-1);
     app.getGroupHelper().deleteGroup();
     app.getGroupHelper().returnToGroupsPage();
 
