@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telRan.ashkelon.com.telRan.ashkelon.tests.ContactDeletionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-15T13:13:10" hostname="MacBook-Air-de-Steven.local" time="0.312">
+  <properties/>
+  <testcase name="testDeleteContact" classname="com.telRan.ashkelon.com.telRan.ashkelon.tests.ContactDeletionTest" time="0.312"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db) on port 10122
+Only local connections are allowed.
+nov. 15, 2018 3:13:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: OSS
+]]></system-err>
+</testsuite>

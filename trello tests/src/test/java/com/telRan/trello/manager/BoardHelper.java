@@ -1,11 +1,11 @@
-package com.telran.trello.manager;
+package com.telRan.trello.manager;
 
-import com.telran.*;
-import com.telran.trello.model.Board;
+import com.telRan.trello.manager.HelperBase;
+import com.telRan.trello.model.Board;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class BoardHelper extends HelperBase{
+public class BoardHelper extends HelperBase {
 
   public BoardHelper(WebDriver wd) {
     super(wd);
