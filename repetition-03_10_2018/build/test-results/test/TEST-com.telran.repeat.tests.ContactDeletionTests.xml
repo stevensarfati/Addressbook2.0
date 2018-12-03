@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.telran.repeat.tests.ContactDeletionTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-10T07:21:15" hostname="MacBook-Air-de-Steven.local" time="0.344">
+<testsuite name="com.telran.repeat.tests.ContactDeletionTests" tests="1" skipped="1" failures="0" errors="0" timestamp="2018-12-03T12:46:30" hostname="MacBook-Air-de-Steven.local" time="0.0">
   <properties/>
-  <testcase name="testContactDeletion" classname="com.telran.repeat.tests.ContactDeletionTests" time="0.344"/>
+  <testcase name="testContactDeletion" classname="com.telran.repeat.tests.ContactDeletionTests" time="0.0">
+    <skipped/>
+  </testcase>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[1539156075108	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://localhost/addressbook/edit.php
-1539156075118	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://localhost/addressbook/edit.php
-1539156075119	Marionette	DEBUG	[4294967297] Received DOM event unload for http://localhost/addressbook/edit.php
-1539156075128	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://localhost/addressbook/
-1539156075143	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://localhost/addressbook/
-1539156075663	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
-]]></system-err>
+  <system-err><![CDATA[]]></system-err>
 </testsuite>

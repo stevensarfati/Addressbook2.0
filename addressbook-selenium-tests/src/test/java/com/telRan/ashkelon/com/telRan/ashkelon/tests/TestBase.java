@@ -79,7 +79,7 @@ public class TestBase {
     }
 
     public void deleteGroup() {
-        click(By.name("delete"));
+        click(By.xpath("//form[@name='MainForm']//div[2]"));
     }
 
     public void createGroup(String groupName, String groupHeader, String groupFooter) {
